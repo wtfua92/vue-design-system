@@ -4,6 +4,28 @@
 #
 
 props:
+  jw-line-height-h1:
+    value: "66px"
+  jw-line-height-h2:
+    value: "50px"
+  jw-line-height-h3:
+    value: "35px"
+  jw-line-height-h4:
+    value: "28px"
+  jw-line-height-h5:
+    value: "22px"
+  jw-line-height-body:
+    value: "22px"
+  jw-line-height-body-big:
+    value: "28px"
+  jw-line-height-body-small:
+    value: "22px"
+  jw-line-height-overline:
+    value: "20px"
+  jw-line-height-caption:
+    value: "17px"
+  jw-line-height-label:
+    value: "16px"
   line_height_m:
     value: "1.6"
   line_height_s:

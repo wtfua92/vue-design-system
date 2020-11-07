@@ -4,6 +4,28 @@
 #
 
 props:
+  jw-font-size-h1:
+    value: "60px"
+  jw-font-size-h2:
+    value: "40px"
+  jw-font-size-h3:
+    value: "24px"
+  jw-font-size-h4:
+    value: "20px"
+  jw-font-size-h5:
+    value: "15px"
+  jw-font-size-body:
+    value: "16px"
+  jw-font-size-body-big:
+    value: "20px"
+  jw-font-size-body-small:
+    value: "13px"
+  jw-font-size-overline:
+    value: "13px"
+  jw-font-size-caption:
+    value: "11px"
+  jw-font-size-label:
+    value: "12px"
   size_xxxl:
     value: "64px"
   size_xxl:

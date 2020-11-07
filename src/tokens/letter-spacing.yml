@@ -4,6 +4,28 @@
 #
 
 props:
+  jw-letter-spacing-h1:
+    value: "-0.5px"
+  jw-letter-spacing-h2:
+    value: "0px"
+  jw-letter-spacing-h3:
+    value: "0.2px"
+  jw-letter-spacing-h4:
+    value: "0.2px"
+  jw-letter-spacing-h5:
+    value: "0.4px"
+  jw-letter-spacing-body:
+    value: "0.4px"
+  jw-letter-spacing-body-big:
+    value: "0.3px"
+  jw-letter-spacing-body-small:
+    value: "0.4px"
+  jw-letter-spacing-overline:
+    value: "2.5px"
+  jw-letter-spacing-caption:
+    value: "1px"
+  jw-letter-spacing-label:
+    value: "0.2px"
   spacing_xl:
     value: "2px"
   spacing_l:
