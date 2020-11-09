@@ -20,8 +20,8 @@ contexts.forEach(context => {
 
 // Install the above defined components
 const System = {
-  install(Vue) {
-    components.forEach(component => Vue.component(component.name, component))
+  install(app) {
+    components.forEach(component => app.component(component.name, component))
   },
 }
 
